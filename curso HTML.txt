@@ -1,0 +1,12 @@
+Backand = responsável pelos dados
+Front and = Faz a parte visual, verifica a melhor forma para entrar no site.
+- sublimetext.com editor de texto
+- todo comando de html se chama tag <>
+- a tag meta não precisa fechar
+
+flat ui colors pesquisar na internet pra ver mais cores.
+flat colors picker
+------
+java script
+alert = comando
+
